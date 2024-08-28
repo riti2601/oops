@@ -6,7 +6,7 @@ public class basic{
         p1.name = "Juhi";
         p1.age = 21;
 
-        Person p2 = new Person(312,"shiva");// another constructor used
+        Person p2 = new Person(312,"shiva");//another constructor used 
         // p2.name = "Harsh";
         // p2.age = 27;
 
@@ -16,7 +16,7 @@ public class basic{
         p1.eat();
         p2.walk(222);
         
-        System.out.println(Person.count);//nu,mber of time the Person() was called
+        System.out.println(Person.count);//number of time the Person() was called
     }
 }
 
