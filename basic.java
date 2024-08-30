@@ -20,7 +20,7 @@ public class basic{
     }
 }
 
-//creating this file for the sole understanduing of oops in java  usinf anuj bhaiya viedio on youtube
+
 
 class Person{
     String name;
