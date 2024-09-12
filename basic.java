@@ -20,7 +20,6 @@ public class basic{
     }
 }
 
-//do i really need to do this 
 
 class Person{
     String name;
@@ -29,9 +28,7 @@ class Person{
     static int count;
     // with static keyword we make propertis of class
     //if you need to make such variables, fields which are going to be constant for the class and won't depend on any object
-
     //So there you've to use the static keyword. Like I wanted to know how many persons are being created, it can't be a property of a particular person.
-
     //we wont need to create an object to access this static variable
 
     public Person(){
